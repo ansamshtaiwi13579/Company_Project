@@ -1,4 +1,3 @@
-#pragma once
 #include "../includes/Ceo.hpp"
 #include <iostream>
 using namespace std;

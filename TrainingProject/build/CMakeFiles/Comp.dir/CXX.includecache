@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Github/Company_Project/TrainingProject/includes/Ceo.hpp
+../includes/Person.hpp
+/home/user/Github/Company_Project/TrainingProject/includes/Person.hpp
+iostream
+-
+
+/home/user/Github/Company_Project/TrainingProject/includes/Person.hpp
+iostream
+-
+
+/home/user/Github/Company_Project/TrainingProject/src/Ceo.cpp
+../includes/Ceo.hpp
+/home/user/Github/Company_Project/TrainingProject/includes/Ceo.hpp
+iostream
+-
+
